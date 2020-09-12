@@ -3,7 +3,6 @@
   <persistence version="9" />
   <languages>
     <use id="f5d811eb-f4db-4ae2-a2ea-d6660df08249" name="de.citec.json" version="0" />
-    <engage id="48020ded-b0cc-4014-8fcf-0d2907e0cfdd" name="de.citec.json.gen.plaintext" />
   </languages>
   <imports />
   <registry>
