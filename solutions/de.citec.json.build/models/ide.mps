@@ -94,7 +94,7 @@
       </concept>
       <concept id="709746936026466394" name="jetbrains.mps.lang.core.structure.ChildAttribute" flags="ng" index="3VBwX9">
         <property id="709746936026609031" name="linkId" index="3V$3ak" />
-        <property id="709746936026609029" name="linkRole" index="3V$3am" />
+        <property id="709746936026609029" name="role_DebugInfo" index="3V$3am" />
       </concept>
       <concept id="4452961908202556907" name="jetbrains.mps.lang.core.structure.BaseCommentAttribute" flags="ng" index="1X3_iC">
         <child id="3078666699043039389" name="commentedNode" index="8Wnug" />
@@ -110,7 +110,7 @@
     </node>
     <node concept="1l3spV" id="6QX7UYZLxge" role="1l3spN">
       <node concept="1tmT9g" id="6QX7UYZLxgW" role="39821P">
-        <property role="AB_bT" value="gzip" />
+        <property role="AB_bT" value="1HQQX4XU8$A/gzip" />
         <node concept="398223" id="6QX7UYZLxgX" role="39821P">
           <node concept="3ygNvl" id="6QX7UYZLxgY" role="39821P">
             <ref role="3ygNvj" to="1qyg:7jMyKDao2OG" />
@@ -148,7 +148,7 @@
             </node>
             <node concept="28jJK3" id="6QX7UYZLxh2" role="39821P">
               <node concept="3co7Ac" id="6QX7UYZLxh3" role="28jJR8">
-                <property role="3co7Am" value="lf" />
+                <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                 <property role="3cpA_W" value="true" />
               </node>
               <node concept="398BVA" id="6QX7UYZLxgD" role="28jJRO">
@@ -163,7 +163,7 @@
             </node>
             <node concept="28jJK3" id="6QX7UYZLxh4" role="39821P">
               <node concept="3co7Ac" id="6QX7UYZLxh5" role="28jJR8">
-                <property role="3co7Am" value="lf" />
+                <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                 <property role="3cpA_W" value="true" />
               </node>
               <node concept="398BVA" id="6QX7UYZLxgJ" role="28jJRO">
@@ -196,7 +196,7 @@
             <node concept="28jJK3" id="78xf10wdzkM" role="39821P">
               <property role="28jJZ5" value="755" />
               <node concept="3co7Ac" id="78xf10wdzlr" role="28jJR8">
-                <property role="3co7Am" value="lf" />
+                <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                 <property role="3cpA_W" value="true" />
               </node>
               <node concept="398BVA" id="78xf10wdzli" role="28jJRO">
@@ -836,7 +836,7 @@
               </node>
               <node concept="28jJK3" id="6QX7UYZLxmH" role="39821P">
                 <node concept="3co7Ac" id="6QX7UYZLxmI" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="398BVA" id="6QX7UYZLxlY" role="28jJRO">
@@ -851,7 +851,7 @@
               </node>
               <node concept="28jJK3" id="6QX7UYZLxmJ" role="39821P">
                 <node concept="3co7Ac" id="6QX7UYZLxmK" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="398BVA" id="6QX7UYZLxm4" role="28jJRO">
@@ -867,7 +867,7 @@
               <node concept="28jJK3" id="6QX7UYZLxmL" role="39821P">
                 <property role="28jJZ5" value="755" />
                 <node concept="3co7Ac" id="6QX7UYZLxmM" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="398BVA" id="6QX7UYZLxmb" role="28jJRO">
@@ -886,7 +886,7 @@
               <node concept="28jJK3" id="78xf10wdzp1" role="39821P">
                 <property role="28jJZ5" value="755" />
                 <node concept="3co7Ac" id="78xf10wdzp2" role="28jJR8">
-                  <property role="3co7Am" value="lf" />
+                  <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                   <property role="3cpA_W" value="true" />
                 </node>
                 <node concept="398BVA" id="78xf10wdzp3" role="28jJRO">
@@ -903,7 +903,7 @@
             <node concept="28jJK3" id="6QX7UYZLxmN" role="39821P">
               <property role="28jJZ5" value="755" />
               <node concept="3co7Ac" id="6QX7UYZLxmO" role="28jJR8">
-                <property role="3co7Am" value="lf" />
+                <property role="3co7Am" value="3D3G23Q8WAL/lf" />
                 <property role="3cpA_W" value="true" />
               </node>
               <node concept="398BVA" id="6QX7UYZLxmh" role="28jJRO">
