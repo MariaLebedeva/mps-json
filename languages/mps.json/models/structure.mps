@@ -25,9 +25,7 @@
         <child id="1071489727083" name="linkDeclaration" index="1TKVEi" />
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
-      <concept id="1169125989551" name="jetbrains.mps.lang.structure.structure.InterfaceConceptDeclaration" flags="ig" index="PlHQZ">
-        <child id="1169127546356" name="extends" index="PrDN$" />
-      </concept>
+      <concept id="1169125989551" name="jetbrains.mps.lang.structure.structure.InterfaceConceptDeclaration" flags="ig" index="PlHQZ" />
       <concept id="1169127622168" name="jetbrains.mps.lang.structure.structure.InterfaceConceptReference" flags="ig" index="PrWs8">
         <reference id="1169127628841" name="intfc" index="PrY4T" />
       </concept>
@@ -84,21 +82,11 @@
       <property role="20lbJX" value="fLJekj5/_0__n" />
       <ref role="20lvS9" node="2XL8QdM1ovK" resolve="Member" />
     </node>
-    <node concept="PrWs8" id="3u3fcjntJlc" role="PzmwI">
-      <ref role="PrY4T" node="3u3fcjntJl9" resolve="IJsonElement" />
-    </node>
     <node concept="PrWs8" id="3u3fcjntRfA" role="PzmwI">
       <ref role="PrY4T" node="3u3fcjntRfn" resolve="IJsonValue" />
     </node>
     <node concept="PrWs8" id="38yiHcMe5IM" role="PzmwI">
       <ref role="PrY4T" node="38yiHcMe5Io" resolve="INestedJson" />
-    </node>
-  </node>
-  <node concept="PlHQZ" id="3u3fcjntJl9">
-    <property role="EcuMT" value="4000107710161286473" />
-    <property role="TrG5h" value="IJsonElement" />
-    <node concept="PrWs8" id="3u3fcjntJla" role="PrDN$">
-      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
   </node>
   <node concept="1TIwiD" id="3u3fcjntRf5">
