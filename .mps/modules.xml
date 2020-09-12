@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/de.citec.json.gen.plaintext/de.citec.json.gen.plaintext.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/de.citec.json/de.citec.json.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/mps.json/mps.json.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/de.citec.json.build/de.citec.json.build.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/de.citec.json.sandbox/de.citec.json.sandbox.msd" folder="" />
     </projectModules>
