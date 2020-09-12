@@ -7,6 +7,7 @@
       <modulePath path="$PROJECT_DIR$/languages/mps.json/mps.json.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/de.citec.json.build/de.citec.json.build.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/de.citec.json.sandbox/de.citec.json.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/mps.json.sandbox/mps.json.sandbox.msd" folder="" />
     </projectModules>
   </component>
 </project>
