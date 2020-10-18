@@ -56,6 +56,7 @@
       </concept>
       <concept id="1237305557638" name="jetbrains.mps.lang.textGen.structure.ConstantStringAppendPart" flags="ng" index="la8eA">
         <property id="1237305576108" name="value" index="lacIc" />
+        <property id="1237306361677" name="withIndent" index="ldcpH" />
       </concept>
       <concept id="1237306079178" name="jetbrains.mps.lang.textGen.structure.AppendOperation" flags="nn" index="lc7rE">
         <child id="1237306115446" name="part" index="lcghm" />
@@ -187,12 +188,13 @@
                 </node>
               </node>
             </node>
-          </node>
-        </node>
-        <node concept="lc7rE" id="1TLGN_zpMkF" role="3cqZAp">
-          <node concept="l8MVK" id="1TLGN_zqiX$" role="lcghm" />
-          <node concept="la8eA" id="1TLGN_zpMnQ" role="lcghm">
-            <property role="lacIc" value="}" />
+            <node concept="lc7rE" id="1TLGN_zpMkF" role="3cqZAp">
+              <node concept="l8MVK" id="1TLGN_zqiX$" role="lcghm" />
+              <node concept="la8eA" id="1TLGN_zpMnQ" role="lcghm">
+                <property role="lacIc" value="}" />
+                <property role="ldcpH" value="true" />
+              </node>
+            </node>
           </node>
         </node>
       </node>
