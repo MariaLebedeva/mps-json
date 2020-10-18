@@ -86,30 +86,6 @@
       </node>
     </node>
   </node>
-  <node concept="37WguZ" id="38yiHcMm7_B">
-    <property role="3GE5qa" value="core.values" />
-    <property role="TrG5h" value="Number__setDefault" />
-    <node concept="37WvkG" id="38yiHcMm7_C" role="37WGs$">
-      <ref role="37XkoT" to="pe0l:3u3fcjntRfu" resolve="Number" />
-      <node concept="37Y9Zx" id="38yiHcMm7_D" role="37ZfLb">
-        <node concept="3clFbS" id="38yiHcMm7_E" role="2VODD2">
-          <node concept="3clFbF" id="38yiHcMm7_F" role="3cqZAp">
-            <node concept="37vLTI" id="38yiHcMm7_G" role="3clFbG">
-              <node concept="2OqwBi" id="38yiHcMm7_I" role="37vLTJ">
-                <node concept="1r4Lsj" id="38yiHcMm7_J" role="2Oq$k0" />
-                <node concept="3TrcHB" id="38yiHcMm7Ud" role="2OqNvi">
-                  <ref role="3TsBF5" to="pe0l:3u3fcjnuhth" resolve="number" />
-                </node>
-              </node>
-              <node concept="Xl_RD" id="38yiHcMm9wG" role="37vLTx">
-                <property role="Xl_RC" value="0" />
-              </node>
-            </node>
-          </node>
-        </node>
-      </node>
-    </node>
-  </node>
   <node concept="37WguZ" id="78xf10wi_ie">
     <property role="3GE5qa" value="core.values" />
     <property role="TrG5h" value="False__setDefault" />
