@@ -17,6 +17,9 @@
       </concept>
     </language>
     <language id="70b454c0-10fe-4e44-b7bc-3259ad4e58ec" name="mps.json">
+      <concept id="8223920434513725740" name="mps.json.structure.JsonFileReference" flags="ng" index="1ipnkW">
+        <reference id="8223920434513725741" name="jsonFile" index="1ipnkX" />
+      </concept>
       <concept id="8223920434514086080" name="mps.json.structure.True" flags="ng" index="1iqfjg" />
       <concept id="8223920434514086081" name="mps.json.structure.False" flags="ng" index="1iqfjh" />
       <concept id="3418552502172616688" name="mps.json.structure.Member" flags="ng" index="1ttaij">
@@ -177,6 +180,23 @@
                   </node>
                 </node>
               </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+  <node concept="3wX4W1" id="gknB7t99fH">
+    <property role="TrG5h" value="Complex" />
+    <node concept="3wXsAc" id="gknB7t99fI" role="3wX4W2">
+      <node concept="1ttaij" id="gknB7t99fJ" role="3wX4Wd">
+        <node concept="3wX4Wf" id="gknB7t99fK" role="3wX4Wn">
+          <node concept="3wX4Wi" id="gknB7t99fL" role="3wYPmq">
+            <property role="Xl_RC" value="ref" />
+          </node>
+          <node concept="3wX4Wk" id="gknB7t99fM" role="3wX4Wa">
+            <node concept="1ipnkW" id="gknB7t99fW" role="3wX4Wo">
+              <ref role="1ipnkX" node="1TLGN_zn6UA" resolve="mpsJsonFile" />
             </node>
           </node>
         </node>
