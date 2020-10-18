@@ -194,7 +194,7 @@
         <node concept="2iRfu4" id="78xf10wk6N_" role="2iSdaV" />
         <node concept="3F2HdR" id="78xf10wk4JB" role="3EZMnx">
           <property role="S$F3r" value="true" />
-          <property role="2czwfO" value=" " />
+          <property role="2czwfO" value=", " />
           <ref role="1NtTu8" to="pe0l:3u3fcjntRf9" resolve="members" />
           <node concept="l2Vlx" id="78xf10wk4JC" role="2czzBx" />
           <node concept="lj46D" id="78xf10wktCo" role="3F10Kt">
@@ -205,6 +205,9 @@
           </node>
           <node concept="tppnM" id="78xf10wk4JE" role="sWeuL">
             <node concept="ljvvj" id="78xf10wk4JF" role="3F10Kt">
+              <property role="VOm3f" value="true" />
+            </node>
+            <node concept="pVoyu" id="5j6AUnAhmmv" role="3F10Kt">
               <property role="VOm3f" value="true" />
             </node>
           </node>
