@@ -196,20 +196,11 @@
           <property role="S$F3r" value="true" />
           <property role="2czwfO" value=", " />
           <ref role="1NtTu8" to="pe0l:3u3fcjntRf9" resolve="members" />
-          <node concept="l2Vlx" id="78xf10wk4JC" role="2czzBx" />
           <node concept="lj46D" id="78xf10wktCo" role="3F10Kt">
             <property role="VOm3f" value="true" />
           </node>
           <node concept="pVoyu" id="78xf10wktCp" role="3F10Kt">
             <property role="VOm3f" value="true" />
-          </node>
-          <node concept="tppnM" id="78xf10wk4JE" role="sWeuL">
-            <node concept="ljvvj" id="78xf10wk4JF" role="3F10Kt">
-              <property role="VOm3f" value="true" />
-            </node>
-            <node concept="pVoyu" id="5j6AUnAhmmv" role="3F10Kt">
-              <property role="VOm3f" value="true" />
-            </node>
           </node>
           <node concept="3EZMnI" id="78xf10wqSde" role="3EmGlc">
             <node concept="3F0ifn" id="78xf10wqSdf" role="3EZMnx">
@@ -264,6 +255,12 @@
             </node>
             <node concept="Vb9p2" id="78xf10wqSd$" role="3F10Kt">
               <property role="Vbekb" value="g1_kEg4/ITALIC" />
+            </node>
+          </node>
+          <node concept="l2Vlx" id="4W9Qvu4C84$" role="2czzBx" />
+          <node concept="tppnM" id="78xf10wk4JE" role="sWeuL">
+            <node concept="ljvvj" id="78xf10wk4JF" role="3F10Kt">
+              <property role="VOm3f" value="true" />
             </node>
           </node>
         </node>
@@ -526,14 +523,8 @@
       <node concept="3F0ifn" id="78xf10woBue" role="3EZMnx">
         <property role="3F0ifm" value=":" />
       </node>
-      <node concept="3EZMnI" id="78xf10woEK4" role="3EZMnx">
-        <node concept="2iRfu4" id="78xf10wpKuJ" role="2iSdaV" />
-        <node concept="3F1sOY" id="3u3fcjnv4R1" role="3EZMnx">
-          <ref role="1NtTu8" to="pe0l:3u3fcjntRfe" resolve="value" />
-          <node concept="lj46D" id="78xf10wotH2" role="3F10Kt">
-            <property role="VOm3f" value="true" />
-          </node>
-        </node>
+      <node concept="3F1sOY" id="3u3fcjnv4R1" role="3EZMnx">
+        <ref role="1NtTu8" to="pe0l:3u3fcjntRfe" resolve="value" />
       </node>
       <node concept="l2Vlx" id="78xf10wmtIv" role="2iSdaV" />
     </node>
